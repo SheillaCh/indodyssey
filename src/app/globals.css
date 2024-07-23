@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --textPrimary: #353535;
-  --textBrown: #6c584c;
+  --indodyssey-textPrimary: #353535;
+  --indodyssey-Brown: #6c584c;
 }
 
 html,
