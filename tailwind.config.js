@@ -4,7 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        indodysseyTextPrimary: "var(--indodyssey-textPrimary)",
+        "indodyssey-text": {
+          primary: "var(--indodyssey-textPrimary)",
+          secondary: "var(--indodyssey-textSecondary)",
+        },
         indodysseyBrown: "var(--indodyssey-brown)",
       },
     },
